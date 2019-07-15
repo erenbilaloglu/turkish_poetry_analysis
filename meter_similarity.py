@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 """
 Created on Mon Apr 23 09:26:19 2018
-
 @author: EREN
 """
 hece_matrix = [[0 for i in range(2827)] for j in range(2827)]
