@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 """
 Created on Sun Apr 22 20:38:46 2018
-
 @author: EREN
 """
 
